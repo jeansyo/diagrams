@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-11T00:40:46.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="wXqTVhIOlqtf7Dk9Don0" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-11T00:41:03.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="YF0tqtKt2UGfw4RIxQTf" version="15.9.1" type="github">
   <diagram id="vdh98ZZNSe1W6Xk0cklG" name="Page-1">
     <mxGraphModel dx="922" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,13 +128,13 @@
           <mxGeometry x="60" y="360" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lf2Z9DXRkiFX08NJU6D0-55" value="fastapi/api/v1/ws/follow?token=token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="650" width="210" height="20" as="geometry" />
+          <mxGeometry x="60" y="660" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lf2Z9DXRkiFX08NJU6D0-56" value="no-manager-clients" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="360" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lf2Z9DXRkiFX08NJU6D0-57" value="no-manager-clients" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="650" width="120" height="20" as="geometry" />
+          <mxGeometry x="290" y="660" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
