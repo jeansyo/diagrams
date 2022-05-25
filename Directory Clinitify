@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T19:15:33.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="dkq1Vl_aW1MHuyX3tUXF" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T19:30:52.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="CDoK2FXE1KBNq1iZUqk0" version="18.0.3" type="github">
   <diagram id="Pky8WSUYSFhR4hdwYv_C" name="Page-1">
-    <mxGraphModel dx="1578" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,6 +247,57 @@
         </mxCell>
         <mxCell id="jGwGKx_1jIJRKoyqhlsg-46" value="Notification&lt;br&gt;Success" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="807.5" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-52" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Clinitify Health&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="60" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="jGwGKx_1jIJRKoyqhlsg-53" target="jGwGKx_1jIJRKoyqhlsg-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-53" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="960" y="235" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="jGwGKx_1jIJRKoyqhlsg-57" target="jGwGKx_1jIJRKoyqhlsg-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-66" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="jGwGKx_1jIJRKoyqhlsg-64">
+          <mxGeometry x="-0.0372" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="jGwGKx_1jIJRKoyqhlsg-57" target="jGwGKx_1jIJRKoyqhlsg-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-67" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="jGwGKx_1jIJRKoyqhlsg-65">
+          <mxGeometry x="-0.1327" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-57" value="If Clinitify&lt;br&gt;Health" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-60" value="PUT Clinitify Health&lt;br&gt;age(automatic)&lt;br&gt;heigh weight blood" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-61" value="POST Clinitify Health&lt;br&gt;age(automatic)&lt;br&gt;height weight blood" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="jGwGKx_1jIJRKoyqhlsg-68" target="jGwGKx_1jIJRKoyqhlsg-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-68" value="If Update&lt;br&gt;Birth date" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jGwGKx_1jIJRKoyqhlsg-72" value="PUT age in all&lt;br&gt;Clinitify Health" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="190" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
