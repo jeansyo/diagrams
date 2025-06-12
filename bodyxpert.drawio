@@ -1,23 +1,130 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Página-1" id="b536NrF2KXJpWwwh88IL">
-    <mxGraphModel dx="1007" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_H1sHP6kLK1rTMvsH9IB-1" target="_H1sHP6kLK1rTMvsH9IB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_H1sHP6kLK1rTMvsH9IB-1" value="User Login&lt;div&gt;- email&lt;/div&gt;&lt;div&gt;- password&lt;/div&gt;&lt;div&gt;- google or apple (optiona)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="45" width="160" height="70" as="geometry" />
+          <mxGeometry x="255" y="40" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_H1sHP6kLK1rTMvsH9IB-2" value="Onboarding&lt;div&gt;&lt;div&gt;- sexo&lt;/div&gt;&lt;div&gt;- edad&lt;/div&gt;&lt;div&gt;- peso&lt;/div&gt;&lt;div&gt;- altura&lt;/div&gt;&lt;div&gt;- objetivos&lt;/div&gt;&lt;div&gt;- acitvidad&lt;/div&gt;&lt;div&gt;- adiionales&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="90" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_H1sHP6kLK1rTMvsH9IB-3" target="_H1sHP6kLK1rTMvsH9IB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_H1sHP6kLK1rTMvsH9IB-3" value="Start System Engine --&amp;gt; calcula&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- TDEE inicial (Mifflin-St Jeor + factor actividad)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Macros iniciales (proteína 1.6–2.2 g/kg,grasas 20–30 % calorías, resto carbs)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Rutina semilla (split según frecuencia: Full-body / Upper-Lower / Push-Pull-Legs)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="480" width="460" height="70" as="geometry" />
+          <mxGeometry x="105" y="480" width="460" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_H1sHP6kLK1rTMvsH9IB-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
-          <mxGeometry x="290" y="300" width="56" height="51.4" as="geometry" />
+          <mxGeometry x="450" y="189.65" width="56" height="50.7" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_H1sHP6kLK1rTMvsH9IB-6" target="_H1sHP6kLK1rTMvsH9IB-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1sHP6kLK1rTMvsH9IB-6" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.loading_3" vertex="1" parent="1">
-          <mxGeometry x="293" y="400" width="50" height="50" as="geometry" />
+          <mxGeometry x="310" y="410" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-7" value="Dashboard Screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="608" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.978;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_H1sHP6kLK1rTMvsH9IB-5" target="_H1sHP6kLK1rTMvsH9IB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.967;entryY=0.808;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_H1sHP6kLK1rTMvsH9IB-5" target="_H1sHP6kLK1rTMvsH9IB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_H1sHP6kLK1rTMvsH9IB-2" target="_H1sHP6kLK1rTMvsH9IB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="410" />
+              <mxPoint x="340" y="410" />
+              <mxPoint x="340" y="416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-20" value="«screen&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;»&lt;/span&gt;&lt;div&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-21" value="NutreScan" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1040" y="150" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-22" value="Photo cloud store" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-23" value="LLM vision" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-24" value="LLM&amp;nbsp;&lt;div&gt;calculo macros&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="490" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-25" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="1072" y="580" width="56" height="50.7" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-26" value="Rutina Xpert" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1310" y="150" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-27" value="Get Summary&lt;div&gt;today&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-28" value="On Press" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-29" value="Get exersices" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-31" value="Capture" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-32" value="Check&lt;div&gt;excersice&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-33" value="calculo&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Volumen de esa sesión = Σ(series×reps×peso)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;RPE promedio&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="550" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-34" value="Summary Diet" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1770" y="150" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-35" value="Get Summary&lt;div&gt;today&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-36" value="On Press" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-37" value="Get comidas hoy" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-39" value="On Press" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="225" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-40" value="Line chart" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="215" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-41" value="On Press" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-42" value="Edit/remove" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="385" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-44" value="Add comida" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-46" value="On Press" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="235" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-47" value="Line chart" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="225" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
