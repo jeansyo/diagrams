@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Página-1" id="b536NrF2KXJpWwwh88IL">
-    <mxGraphModel>
+    <mxGraphModel dx="832" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-1" value="User Login&lt;div&gt;- email&lt;/div&gt;&lt;div&gt;- password&lt;/div&gt;&lt;div&gt;- google or apple (optiona)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="45" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1sHP6kLK1rTMvsH9IB-2" value="Onboarding&lt;div&gt;&lt;div&gt;- sexo&lt;/div&gt;&lt;div&gt;- edad&lt;/div&gt;&lt;div&gt;- peso&lt;/div&gt;&lt;div&gt;- altura&lt;/div&gt;&lt;div&gt;- objetivos&lt;/div&gt;&lt;div&gt;- acitvidad&lt;/div&gt;&lt;div&gt;- adiionales&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="90" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
